@@ -64,7 +64,7 @@ const infoPizzas = [
         price : 700
     },
     {
-        title : "Сырный-цыпленок",
+        title : "Сырный-цыпленfafa",
         img : pizza4,
         price :  900
     },

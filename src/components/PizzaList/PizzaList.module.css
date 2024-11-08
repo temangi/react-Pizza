@@ -1,0 +1,14 @@
+.pizzaMain{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding:  40px 0 ;
+    gap: 50px;
+}
+
+.pizzaList {
+    padding:50px 100px;
+}
+
+.pizzaList > h1{
+    font-size: 50px;
+}

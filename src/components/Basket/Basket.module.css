@@ -1,0 +1,175 @@
+.basket {
+  padding: 100px 200px;
+}
+
+.basket__title {
+  display: flex;
+  gap: 10px;
+}
+
+.basket__right {
+  cursor: pointer;
+  display: flex;
+  padding-left: 800px;
+  align-items: center;
+}
+
+.basket__list {
+  display: flex;
+  align-items: center;
+  padding-top: 60px;
+}
+
+.basket__li {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 20px;
+
+}
+
+.basket__img {
+  width: 100px;
+  height: 100px;
+}
+
+.basket__froot {
+  display: flex;
+  font-size: 18px;
+  font-weight: 400;
+  color: #8D8D8D;
+}
+
+.basket__logo {
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  padding-left: 200px;
+  
+}
+
+.buttonn {
+  padding: 4px 10px;
+  font-size: 20px;
+  cursor: pointer;
+  color: #FE5F1E;
+  border: 2px solid #FE5F1E;
+  background: none;
+  margin: 0 18px;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+}
+
+.button {
+  padding: 3.1px 11.5px;
+  font-size: 21px;
+  cursor: pointer;
+  color: #FE5F1E;
+  border: 2px solid #FE5F1E;
+  background: none;
+  margin: 0 18px;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #ddd;
+}
+
+.counter__li{
+  display: flex;
+  padding-left: 100px;
+}
+
+.btn{
+  display: flex;
+  margin-left: 200px;
+  padding: 7px 14px;
+  font-size: 20px;
+  cursor: pointer;
+  border: 2px solid #D3D3D3;
+  color: #D3D3D3;
+  background: none;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.karzina{
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-left: 600px;
+  margin-top: 90px;
+}
+
+.pusto{
+  margin-left: 560px;
+}
+
+.span{
+  margin-left: 510px;
+}
+
+.colour{
+ margin: 40px 600px;
+  width: 300px;
+  height: 300px;
+}
+
+.bttn{
+  cursor: pointer;
+  background: black;
+  color: white;
+  font-size: 15px;
+  margin-left: 620px;
+  border-radius: 25px;
+  padding: 15px 30px;
+}
+
+.img{
+  width: 35px;
+  height: 35px;
+  margin-top: 15px;
+}
+
+.pizza{
+  margin-top: 50px;
+}
+
+.cumma{
+  margin-left: 800px;
+}
+
+.bntn{
+  margin-top: 40px;
+}
+
+.nazad{
+cursor: pointer;
+  color: #D3D3D3;
+  border: 1px solid #D3D3D3;
+  background: none;
+  width: 180px;
+  border-radius: 30px;
+  padding: 15px 25px;
+}
+
+.oplata{
+cursor: pointer;
+  background: #FE5F1E;
+  width: 180px;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 15px 25px;
+  margin-left: 700px
+}

@@ -1,0 +1,87 @@
+.catalog{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    padding: 0 100px;
+}
+
+.catalog__button{
+    display: flex;
+    gap: 20px;
+}
+
+.catalog__btn{
+    padding: 10px 25px;
+    background: #F9F9F9;
+    border-radius: 20px;
+    border: none;
+    transition: .6s;
+    cursor: pointer;
+}
+
+.catalog__btn:hover{
+    background: black;
+    color: white;
+}.Catalog{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+    padding: 0 80px;
+}
+
+.catalog__button{
+    display: flex;
+    gap: 20px;
+}
+
+.catalog__btn_noActive{
+    padding: 10px 25px;
+    background: #F9F9F9;
+    border-radius: 20px;
+    border: none;
+    transition: 1s;
+    cursor: pointer;
+    font-size: 18px;
+}
+.catalog__btn_active{
+    padding: 10px 25px;
+    background: black;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    transition: 1s;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+
+.catalog__btn_noActive:hover{
+    background: black;
+    color: white;
+}
+
+.choice_active{
+    display: block;
+    padding: 10px 0 ;
+    position: absolute;
+    right: 5%;
+    top: 25%;
+}
+.choice_noActive{
+    display: none;
+}
+.choiceFilter{
+    padding:  10px;
+    font-size: 20px;
+}
+
+.choiceFilter:hover{
+    background:#fe5d1e0b;
+    color: #FE5F1E;
+}
+.catalog__button_right{
+    font-size: 20px ;
+}
+
